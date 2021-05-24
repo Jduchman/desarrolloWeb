@@ -1,0 +1,11 @@
+.listaCompra{
+    background: rgb(170, 170, 170);
+    padding: 20px;
+    margin: 2px 100px 0px 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    
+}
+a{
+    color:rgb(156, 39, 152);
+}
